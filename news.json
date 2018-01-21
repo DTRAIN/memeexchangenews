@@ -27,8 +27,8 @@
   {
   "v":5,
   "ts":1516494086,
-  "t":"Leaderboard backs. New patch rolling out.",
-  "m":"The leaderboards are back up, but we've also rolled out another patch that should improve the long term stability and performance of our leaderboards so make sure you download it. We're still working hard to improve and optimize them, and we'll likely have a better search/sort mechanism as well as paged leaderboards coming out in the next week or so, so stay tuned."
+  "t":"Leaderboards back up. New patch rolling out.",
+  "m":"The leaderboards are back up for now, we've also rolled out another patch that should improve the long term stability and performance of our leaderboards so make sure you download it. We're still working hard to improve and optimize them, and we'll likely have a better search/sort mechanism as well as paged leaderboards coming out in the next week or so, so stay tuned."
   }
 ]
 }
