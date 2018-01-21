@@ -23,6 +23,12 @@
   "ts":1516313652,
   "t":"Leaderboard down temporarily",
   "m":"We've run into some technical difficulties with our leaderboards. We're working on a short term fix on our end that should have the leaderboards up and running again in a few hours. A longer term solution will then have to be released as an update to the app. Thanks for your patience."
+  },
+  {
+  "v":5,
+  "ts":1516313652,
+  "t":"Leaderboard backs. New patch rolling out.",
+  "m":"The leaderboards are back up, but we've also rolled out another patch that should improve the long term stability and performance of our leaderboards so make sure you download it. We're still working hard to improve and optimize them, and we'll likely have a better search/sort mechanism as well as paged leaderboards coming out in the next week or so, so stay tuned."
   }
 ]
 }
