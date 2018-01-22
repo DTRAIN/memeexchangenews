@@ -17,18 +17,6 @@
   "ts":1516313652,
   "t":"Developer updates",
   "m":"This is our first developer update. We'll post important news and development related messages for Meme Exchange here. Here's a list of our current development work and priorities.\n\n* Fixing remaining crashes\n* Fixing issue where homepage sometimes doesn't refresh right away\n* Reduce server costs by optimizing leaderboards performance and user experience (navigating 10k+ leaderboard entries can be difficult)\n* Improve game balance and add more risk (most posts will still remain neutral or go up atm)\n* Designing and implementing some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your support and kind words!"
-  },
-  {
-  "v":4,
-  "ts":1516313652,
-  "t":"Leaderboard down temporarily",
-  "m":"We've run into some technical difficulties with our leaderboards. We're working on a short term fix on our end that should have the leaderboards up and running again in a few hours. A longer term solution will then have to be released as an update to the app. Thanks for your patience."
-  },
-  {
-  "v":5,
-  "ts":1516494086,
-  "t":"Leaderboards back up. New patch rolling out.",
-  "m":"The leaderboards are back up for now, we've also rolled out another patch that should improve the long term stability and performance of our leaderboards so make sure you download it.\n\n We're still working hard to improve and optimize them, and we'll likely have a better search/sort mechanism as well as paged leaderboards coming out in the next week or so, so stay tuned."
   }
 ]
 }
