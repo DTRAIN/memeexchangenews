@@ -17,6 +17,12 @@
   "ts":1516313652,
   "t":"Developer updates",
   "m":"This is our first developer update. We'll post important news and development related messages for Meme Exchange here. Here's a list of our current development work and priorities.\n\n* Fixing remaining crashes\n* Fixing issue where homepage sometimes doesn't refresh right away\n* Reduce server costs by optimizing leaderboards performance and user experience (navigating 10k+ leaderboard entries can be difficult)\n* Improve game balance and add more risk (most posts will still remain neutral or go up atm)\n* Designing and implementing some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your support and kind words!"
+  },
+  {
+  "v":4,
+  "ts":1516313652,
+  "t":"New leaderboard update",
+  "m":"Patch 1.2.5 is out, and it has a big update for the leaderboard. This will massively improve performance, reduce your data usage while using the leaderboard, and now show your current leaderboard position and username at the top of the page. Check it out now, and please email us if you find any bugs, so we can fix them ASAP. Also please note that due to heavy usage it may take up to 10 minutes for your name changes and leaderboard positions to update."
   }
 ]
 }
