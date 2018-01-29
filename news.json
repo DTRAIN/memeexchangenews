@@ -13,28 +13,16 @@
   "m":"EDIT: a lot of people are asking to have the init value of the investment on portfolio back. We're doing this now\n\nThis patch will address several issues we should mention.\n\nBalance changes\n---------------\nSeveral people have been complaining that the game is too easy. To this end we've taken some early first steps and added a degradation component to our kek cost value for a meme. This means you can no longer hold onto all the memes you can buy for several days with minimum risk. If you hold a meme for too long it will go normie at some point and start freefalling.\n\nme_irl added\n------------\nLots of requests to do this. We realize not everyone will like all the memes so we're going to eventually allow you to customize your stock feed.\n\nUI improvements and purchase history\n------------------------------------\nSeveral people have emailed/left feedback talking about how growth was affected strangely when they bought or sold the same multiple times (not just buy once & sell all). To address this we're adding a purchase history of your transaction. It's only partially complete so for now it will show the AVERAGE of growth across all your purchases. This is not entirely accurate as having one purchase of 100 shares with 100% growth and another purchase of 100M shares of the same meme with 200% growth will show a growth as 150% even though it is technically very close to 200% as the 100 share purchase would be irrelevant in comparison to the 100M purchase.\n\nPerformance\n---------------\nAs always we're doing our best to make the app less chunky. Some of our refresh code should be a little more efficient now. We're also going to reduce the size of the meme images that are being pulled from reddit. Some are massive and can lock up older phones pretty good.\n\nCurrent development work and priorities\n---------------------------------------\n* Fix crashes\n* Fix issue where homepage sometimes doesn't refresh right away\n* Design and implement some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your feedback and kind words! We're trying our best to keep up with all your suggestions while also fixing the mess of bugs that have been reported.\n\nAlso small side note, we have no official social media presence. All official information about the app should come from here or the patch notes. We do occasionally post on reddit as as /u/alexgophermix and /u/blapblapdiddlydoodah"
   },
   {
-  "v":1,
-  "ts":1516313652,
-  "t":"Test title",
-  "m":"This is a test message of memeExchange meme"
-  },
-  {
-  "v":2,
-  "ts":1516313652,
-  "t":"Update two",
-  "m":"This is a test message of memeExchange meme update long update yolo yolo reeeeeeeeeeeeeeeeeeeeeeeee pls no crash long update pls reeee tes test test test aaah dankmemes memeeconomy mememememememememememememememememe surrealmemes"
+  "v":4,
+  "ts":1516830432,
+  "t":"Patch 1.2.7 - performance fix",
+  "m":"Skip right on over patch 1.2.6 and grab patch 1.2.7 before it goes normie. We introduced a minor bug in 1.2.5 that would compound over time and cause heavy performance losses, this issue should be completely fixed in patch 1.2.7.\nWe've also added a new meme filtering menu on the home page as well as some small UI improvements across the board. Try it out and make sure you report any bugs you find to us.\n\nCurrent development work and priorities.\n\n* Fixing remaining crashes\n* Fixing issue where homepage sometimes doesn't refresh right away\n* Improve game balance and add more risk (most posts will still remain neutral or go up atm)\n* Designing and implementing some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your support and kind words!\n\nAlso small side note, we have no official social media presence, all official information about the app should come from here or the patch notes, except that we both occasionally post on reddit as /u/alexgophermix and /u/blapblapdiddlydoodah"
   },
   {
   "v":3,
   "ts":1516313652,
   "t":"Developer updates",
   "m":"This is our first developer update. We'll post important news and development related messages for Meme Exchange here. Here's a list of our current development work and priorities.\n\n* Fixing remaining crashes\n* Fixing issue where homepage sometimes doesn't refresh right away\n* Reduce server costs by optimizing leaderboards performance and user experience (navigating 10k+ leaderboard entries can be difficult)\n* Improve game balance and add more risk (most posts will still remain neutral or go up atm)\n* Designing and implementing some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your support and kind words!"
-  },
-  {
-  "v":4,
-  "ts":1516830432,
-  "t":"Performance fix, patch 1.2.7",
-  "m":"Skip right on over patch 1.2.6 and grab patch 1.2.7 before it goes normie. We introduced a minor bug in 1.2.5 that would compound over time and cause heavy performance losses, this issue should be completely fixed in patch 1.2.7.\nWe've also added a new meme filtering menu on the home page as well as some small UI improvements across the board. Try it out and make sure you report any bugs you find to us.\n\nCurrent development work and priorities.\n\n* Fixing remaining crashes\n* Fixing issue where homepage sometimes doesn't refresh right away\n* Improve game balance and add more risk (most posts will still remain neutral or go up atm)\n* Designing and implementing some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your support and kind words!\n\nAlso small side note, we have no official social media presence, all official information about the app should come from here or the patch notes, except that we both occasionally post on reddit as /u/alexgophermix and /u/blapblapdiddlydoodah"
   }
 ]
 }
