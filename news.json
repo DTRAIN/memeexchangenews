@@ -2,6 +2,12 @@
 "e":[
   {
   "v":6,
+  "ts":1517354952,
+  "t":"Current development work and priorities",
+  "m":"* Fix major memory usage on Meme page caused by ridiculously oversized meme images.\n* Remove posts with no image\n* Stop re-adding posts more than a day old\n* Accounts and data sync\n* Fix issue where homepage sometimes doesn't refresh right away\n* Design and implement some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your feedback and kind words! We're trying our best to keep up with all your suggestions while also fixing the mess of bugs that have been reported. Please note - due to the volume of feedback, if you're seeing a bug/crash email is the best way to get help. Our email is appstronautstudios@gmail.com"
+  },
+  {
+  "v":6,
   "ts":1517196373,
   "t":"1.2.9 patch notes",
   "m":"me_irl removed\n------------\nWe initially added it because a lot of people wanted the content, but after leaving it for a few hours and noticing that 60-70% of posts are coming from that spammy subreddit we're removing it again. We'll eventually have custom subreddits so you can follow whatever you like.\n\nmore stock data added\n------------\nWe tried to slim down our portfolio page to display just your current investment value and growth since purchase but a lot of people were unhappy with that. We've added back the data that was previously available in hopefully a more compressed and understandable format (including initial investment). Let us know if that works or if there's still more info you'd like to see\n\nCurrent development work and priorities\n---------------------------------------\n* Fix crashes\n* Fix major memory usage on Meme page caused by ridiculously oversized meme images.\n* Fix issue where homepage sometimes doesn't refresh right away\n* Design and implement some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your feedback and kind words! We're trying our best to keep up with all your suggestions while also fixing the mess of bugs that have been reported."
