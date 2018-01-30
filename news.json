@@ -1,7 +1,7 @@
 {
 "e":[
   {
-  "v":6,
+  "v":7,
   "ts":1517354952,
   "t":"Current development work and priorities",
   "m":"* Fix major memory usage on Meme page caused by ridiculously oversized meme images.\n* Remove posts with no image\n* Stop re-adding posts more than a day old\n* Accounts and data sync\n* Fix issue where homepage sometimes doesn't refresh right away\n* Design and implement some kind of shorter term leaderboards (daily/weekly rankings on various metrics)\n\nThanks for all of your feedback and kind words! We're trying our best to keep up with all your suggestions while also fixing the mess of bugs that have been reported. Please note - due to the volume of feedback, if you're seeing a bug/crash email is the best way to get help. Our email is appstronautstudios@gmail.com"
