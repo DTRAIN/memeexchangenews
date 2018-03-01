@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":11,
+  "ts":1519933389,
+  "t":"2.1.0 - Certification",
+  "m":"Trade Certification!\n- When you reach 1Q or greater net worth, you will now be able to reset your account balance to 1000keks to increase your certification level\n- all currently traded memes will be archived\n- users will be ranked first by certification level, and then by net worth on the leaderboard.\n\nNew profile rewards available!\n- Several new rewards have been added to be earned, with more in the works.\n- Profile rewards info page has been added with a description of available rewards\n- You will be notified when you unlock a reward.\n\nGeneral\n- bug fixes and improvements\n- added OTMemes and trippingthroughtime.\n\nFor details and discussion please see https://www.reddit.com/r/KekInvesting/comments/80zasn/21_patch_notes/"
+  },
+  {
   "v":10,
   "ts":1519067121,
   "t":"Season 2 has begun. Update notes",
