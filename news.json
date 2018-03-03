@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":12,
+  "ts":1520040005,
+  "t":"2.1.1 patch notes",
+  "m":"Balance\n\n- changes to reduce the incentive and gains from insider trading\nNew rewards\n\nprofessional memer - awarded for achieving a certification level of 10 or above\n- Meme connoisseur - awarded for achieving over 5000% growth on a single meme sale\n\nBug fixes\n\n- Certification info page now scrolls - thanks to /u/ChairmanRay and /u/anosym for reporting\n- Fixed a bug where your purchase history totals were wrong when you had purchase a total of more than 9.2Q shares of that meme (buy all, sell all, buy all again) - thanks to /u/Foonle and /u/JSPR010 for the reports\n- Fixed a bug where your profile page didn't update right away when you got a new certification (you'd have to leave and come back for your data to update)\n- Fixed a bug where #50 on the leaderboards would always appear twice when scrolling.\n- Reduced ridiculously large news title text size to be something more reasonable.\n\nMore details here: https://www.reddit.com/r/KekInvesting/comments/81k58j/211_patch_notes/"
+  },
+  {
   "v":11,
   "ts":1519933389,
   "t":"2.1.0 - Certification",
