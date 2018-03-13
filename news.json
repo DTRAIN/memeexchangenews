@@ -1,6 +1,12 @@
 {
 "e":[
-    {
+  {
+  "v":14,
+  "ts":1520969848,
+  "t":"2.1.4 patch notes",
+  "m":"New Badges\n\n- First purchase -  a lot of our badges are quite difficult to obtain. We wanted to add an easy one to introduce people to the system. Triggered on first purchase made after this patch.\n- High volume trader - earned by making over 1000 meme purchases in your trading career. You don't need to own all 500 at once. There is a counter to track your progress on the badge info page.\n\nGameplay changes- History graph now shows where you made purchases with little black triangles. We'll have a nicer indicator in future.\n\nBug fixes\n\n- Fixed at least one bug around seeing a blank screen on the homepage sometimes. There is still another case where you can see a blank page sometimes when coming back to the app after a while\nMade data processing more efficient. On first load data should come in faster. Refreshes still happen every minute but the time it takes for them to be processed should also be faster."
+  },
+  {
   "v":13,
   "ts":1520549696,
   "t":"2.1.3 patch notes - full account syncing",
