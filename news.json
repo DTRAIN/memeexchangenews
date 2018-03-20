@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":16,
+  "ts":1521586135,
+  "t":"2.1.6 patch notes",
+  "m":"Sync / Restore Addition\n\nAdded the ability to upload a device's data overtop of an existing google sync when first signing in on a new device. This will allow you to overwrite your existing remote backup. This is for people who already have a google account set up and have earned a bunch of badges on a non-signed in phone before syncing.\n\nWARNING: This can only be done once, and only on sign in form a new device, your existing remote backup will be lost, and your current device's data will become your new backed up data.\n\nGeneral\n- Fixed a bug where owned stale memes would no longer update value for some users\n-Improved UI of pie charts on analysis page"
+  },
+  {
   "v":15,
   "ts":1521237506,
   "t":"2.1.5 patch notes",
