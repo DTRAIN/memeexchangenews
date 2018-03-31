@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":19,
+  "ts":1522477646,
+  "t":"2.3.0 patch notes",
+  "m":"Gameplay changes\n\n* New profile icons. You can use these instead of badges for your profile icon. They are not earned the way that badges are. Everyone will have 3 for free and currently 3 can be purchased as a bundle from the store. More free and premium icons will be added in future.\n* New icon picker. Little bottom popup menu wasn't very flexible and got annoying to use if you had even a couple badges unlocked\n* You can click on the yellow header showing your own account on the leaderboards page now to quickly change username and icons\n\nMisc changes\n\n* A few more safety checks and bug fixes\n\nLooking forward\n\nWe want to hear from you! What features/changes can most improve the game. Strawpoll and discussion here: https://www.reddit.com/r/KekInvesting/comments/88cltj/feedback_and_suggestion_thread_march_30_2018/"
+  },
+  {
   "v":16,
   "ts":1521586135,
   "t":"2.1.7 patch notes",
