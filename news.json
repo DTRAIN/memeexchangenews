@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":20,
+  "ts":1523144846,
+  "t":"2.4.0 patch notes (UI improvements phase 1)",
+  "m":"2.4.0 brings a large change to the main page UI, we'll be working on UI upgrades in phases alongside some other development projects going forwards. We'd love to hear feedback from everyone and ways we can tweak and improve the UI and flow as we work to improve it.\n\nUI Improvements phase 1\n- All navigation buttons moved into menu\n- account balance header moved into menu\n- Can swipe left and right on the meme page to navigate to next/previous memes in the list.\n- Dark Mode, available through settings. This is an experimental first release and we'll be making tweaks and changes as we accumulate feedback on it, please report any bugs or strange colours you find.\n- minor colour changes and layout tweaks\n\nGeneral\n- Added a basic info page for new users, this is a work in progress and we'll be adding additional info and improving it over time.\n- Lots of crash fixes and performance improvements.\n\nDiscussion can be found here: https://www.reddit.com/r/KekInvesting/comments/8abya1/240_patch_notes_ui_improvements_phase_1/"
+  },
+  {
   "v":19,
   "ts":1522477646,
   "t":"2.3.0 patch notes",
