@@ -1,6 +1,12 @@
 {
 "e":[
   {
+  "v":23,
+  "ts":1524161668,
+  "t":"2.5.0 patch notes (UI improvements)",
+  "l":"https://www.reddit.com/r/KekInvesting/comments/8dgsih/250_release_notes_ui_improvements/"
+  },
+  {
   "v":22,
   "ts":1523486411,
   "t":"2.4.2 patch notes (bug fixes, UI tweaks, transaction history)",
